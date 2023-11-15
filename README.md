@@ -67,7 +67,7 @@ npm start
 - Copy the generated link and open it in your browser to invite the bot onto a server.
 
 ## Discord commands
-### Commands utilies : 
+### Utility commands : 
 - **/avatar** : Displays the URL of the selected user's avatar or your own avatar.
 - **/server** : Provides server information.
 - **/user** : Provides information about the user.
