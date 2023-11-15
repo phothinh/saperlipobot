@@ -79,3 +79,9 @@ npm start
 - **/snake** : Play the Snake game !
 - **/2048** : Play the 2048 game !
 - **/wordle** : Play the Wordle game ! *(in developpment)*
+
+## Contributing
+See the [specific guide](./CONTRIBUTING.md).
+
+## Licence
+This project is under the [MIT Licence](./LICENSE).
