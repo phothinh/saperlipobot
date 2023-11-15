@@ -1,7 +1,7 @@
-# SapristoBot
+# SaperlipoBot
 
 ## Description
-Welcome to the SapristoBot Discord bot! This bot offers a variety of features, including utility commands, games and even weather information. Explore the different commands to get the most out of your experience.
+Welcome to the SaperlipoBot Discord bot! This bot offers a variety of features, including utility commands, games and even weather information. Explore the different commands to get the most out of your experience.
 
 ## Installation
 To install and use the bot, follow these steps:
@@ -12,7 +12,7 @@ cd your-bot-repo
 ```
 ### 2. Installing dependencies : 
 ```bash
-npm install sapristobot
+npm install saperlipobot
 ```
 
 ### 3. Configure the config.json file:
